@@ -1,0 +1,37 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+#map {
+  width: 400px;
+  height:400px;
+}
+
+.checkins p {
+    padding:0px;
+    margin:0px;
+}
+
+.infowrapper {
+	display: block;
+	width: 400px;
+	float:left;
+	margin-left:5px;
+}
+.infobox {
+
+}
+
+.title {
+	font-weight: bold;
+}
+
+h1 {
+	color: red;
+	font-size: 20px;
+	padding: 0;
+	padding-bottom: 5px;
+	padding-top:5px;
+	margin: 0;
+}
